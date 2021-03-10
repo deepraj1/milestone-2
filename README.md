@@ -1,8 +1,8 @@
 # Compiler-project
-make
-iske bad mei 
-./bin/parser ./test/test1.txt
-isse kk.gv file banega
-usko 
-xdot kk.gv se run karna h
+1. make
+2. iske bad mei 
+3. ./bin/parser ./test/test1.txt
+4. isse kk.gv file banega
+5. usko 
+6. xdot kk.gv se run karna h
 
