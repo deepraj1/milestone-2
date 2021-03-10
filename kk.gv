@@ -1,7 +1,0 @@
-digraph G {
-	ordering=out;
-VOID -> aya
-VOID -> aya
-VOID -> aya
-VOID -> aya
-}
