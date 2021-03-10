@@ -25,5 +25,5 @@ $(OBJ)/%.o: $(SRC)/%.cpp
 	$(CPP) -c $^ -o $@ -I$(SRC) -I$(OBJ)
 
 clean:
-	$(RM) -rf $(OBJ) $(BIN)
+	$(RM) -rf *.gv  $(OBJ) $(BIN)
 	$(RM) output.txt  parser.output
